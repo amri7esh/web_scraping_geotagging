@@ -1,0 +1,33 @@
+﻿state_id,state_name,state_univ_state_ids,central_univ_state_ids,state_priv_univ_state_ids,deemed_univ_state_ids
+1,Andhra Pradesh,1,1,1,1
+2,Arunachal Pradesh,3,2,2,2
+3,Assam,4,3,3,3
+4,Bihar,5,4,4,4
+5,Delhi,6,5,7,5
+6,Goa,7,7,8,7
+7,Gujarat,8,8,9,8
+8,Haryana,9,9,11,10
+9,Himachal Pradesh,10,10,12,11
+10,Jammu & Kashmir,11,11,15,12
+11,Jharkhand,12,12,20,13
+12,Karnataka,13,13,21,16
+13,Kerala,15,15,22,20
+15,Chhattisgarh,16,20,23,21
+16,Chandigarh,20,21,24,26
+20,Madhya Pradesh,21,22,25,27
+21,Maharashtra,22,23,26,28
+22,Manipur,26,24,28,29
+23,Meghalaya,28,25,29,31
+24,Mizoram,29,26,30,33
+25,Nagaland,30,27,32,34
+26,Orissa,31,28,33,35
+27,Puducherry,32,29,34,36
+28,Punjab,33,30,35,
+29,Rajasthan,34,31,,
+30,Sikkim,35,32,,
+31,Tamil Nadu,36,33,,
+32,Tripura,,34,,
+33,Uttar Pradesh,,35,,
+34,Uttarkhand,,36,,
+35,West Bengal,,,,
+36,Telangana,,,,
